@@ -7,5 +7,3 @@ The main.dart file consist of Five sections.
 3. Analyzing the computer's move
 4. Printing Scores
 5. Winning decision
-
-Hope you learn something new viewing this repository. Feel free to ask any questions!
