@@ -8,4 +8,4 @@ The main.dart file consist of Five sections.
 4. Printing Scores
 5. Winning decision
 
-Hope you learn something new viewing this repository.
+Hope you learn something new viewing this repository. Feel free to ask any questions!
