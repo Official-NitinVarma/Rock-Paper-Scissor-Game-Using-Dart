@@ -1,11 +1,8 @@
 // Creating Rock Paper Scissor Game using random and if-else
-
 import 'dart:io';
-
 import 'dart:math';
 void main(){
-
-  // Welcoming the user
+// Welcoming the user
 stdout.write("Enter you name:");
 var userName = stdin.readLineSync();
 print("Hello $userName! Welcome to RPS Game. ");
